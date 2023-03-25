@@ -1,0 +1,49 @@
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: blue;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    text-decoration-line: underline;
+    color: blue;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    text-decoration-line: underline;
+    
+            color: blue;
+            background-color: white;
+            
+        
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+.table-responsive{
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.form1 {
+    margin: 20px;
+}
+.btn{
+    margin-left: 30px;
+}
+
+p{
+    margin: 30px;
+}
+h1{
+    margin: 30px;
+}
+
+.accordion{
+    margin: 20px;
+}
